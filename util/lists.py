@@ -1,5 +1,5 @@
 '''
-a utility that stores lists of rasponses 
+a utility that stores lists of responses 
 categorized for the commands they are used for
 '''
 
